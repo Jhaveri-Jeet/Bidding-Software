@@ -1,6 +1,6 @@
+# BiddingSoftwareDB
 ![image](https://github.com/Jhaveri-Jeet/Bidding-Software/assets/114752089/92ab675a-1408-4711-b8f0-da181b7a3c9a)
 
-# BiddingSoftwareDB
 
 BiddingSoftwareDB is an open-source PHP and MariaDB-based bidding system designed to streamline interactions between buyers and sellers. This repository serves as the foundation for building customizable bidding applications.
 
